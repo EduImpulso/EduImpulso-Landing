@@ -178,7 +178,7 @@ img{
 }
 .nav__logo{
   /*color: var(--second-color);*/
-  color: #370252;
+  color: white;
 }
 .nav__toggle{
   color: var(--second-color);
